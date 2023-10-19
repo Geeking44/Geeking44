@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Geeking44
-- 👀 I’m interested in Java, ASP.Net and Android
-- 🌱 I have currently decided maybe its time to go back to basic's  
-- 💞️ I’m looking for new challenges that will improve my Programming skills
+- 👋 Hi, Im Noxolo Masina
+- 👀 I’m interested in Java, ASP.Net, Angular, Azure Devops and SSMS
+- 🌱 I have currently Im Busy with a Bootcamp for programmers and Working at TIH as a Developer  
+- 💞️ I’m looking oto improve my Programming skills
 - 📫 How to reach me: masinasamaria@gmail.com
 
 <!---
